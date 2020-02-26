@@ -3,7 +3,7 @@ Sistema em java para contar total de linhas em um projeto java, podendo ser adap
 
 # Modificações no projeto original
 Houveram algumas modificações no projeto original, para melhoria de desempenho e UX.
-- Uso do JFileChooser ao ínves de JOptionPane 
+- Uso do JFileChooser ao invés de JOptionPane 
 - Pastas **.git** e **target** ignoradas na contagem
 - Melhorias no corpo do arquivo
 
